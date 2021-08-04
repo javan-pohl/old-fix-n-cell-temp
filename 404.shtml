@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TZS25SB');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Select Which Phone Make You Need Repaired.  Currently servicing iPhones, Samsung Galaxy, and LG phones">
+    <meta name="keywords" content="iphones, samsung phones, samsung galaxy, LG phones, repairs">
+    <meta name="author" content="Javan Pohl">
+    <title>Select Phone Manufacturer at FixNcell </title>
+    <link rel="stylesheet" href="https://www.fixncell.com/css/style.css">
+
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZS25SB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header>
+  <div class="header_container">
+    <div id="branding">
+      <a href="https://www.fixncell.com/"><p><span class="highlight">FixNcell</span>&nbspPhone&nbspRepair</p></a>
+    </div>
+    <div id="header_middle">
+      <ul>
+        <li><img src="https://www.fixncell.com/img/call.png">(303) 421-6499</li>
+        <li><img src="https://www.fixncell.com/img/email.png"><a href="mailto:fixncellllc@gmail.com">FixNcellLLC@gmail.com</a></li>
+      </ul>
+    </div>
+    <nav>
+      <ul>
+        <li></li>
+        <li><iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Ffixncell&width=73&layout=button_count&action=like&size=small&show_faces=false&share=false&height=21&appId" width="73" height="21" style="border:#000000 2px solid;border-radius:4px;vertical-align: bottom;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></li>
+        <li class="current"><a href="https://www.fixncell.com/">Home</a></li>
+        <li><a href="https://www.fixncell.com/about.html">About</a></li>
+        <li><a href="https://www.fixncell.com/cell-phone-repairs.html">Repairs</a></li>
+        <li class="mobiletel"><a href="tel:3034216499"><img src="https://www.fixncell.com/img/call.png" alt="image of a phone"></a></li>
+      </ul>
+    </nav>
+  </div>
+  </header>
+  <body style="text-align: center;">
+    <a href="https://www.fixncell.com/"><img src="https://www.fixncell.com/img/fixncell-logo-large.jpg" style="width:70%; margin-top:100px;"></a>
+    <h1 style="font-family: Georgia, serif; color: #4a4a4a; margin-top: 4em; line-height: 1.5;">
+      Sorry, this page doesn't exist.<br><a href="https://www.fixncell.com/">Click HERE to go back to the main page</a>
+    </h1>
+
+    <h2 style="  font-family: Verdana, sans-serif; color: #7d7d7d; font-weight: 300;">
+      404 Error. Page Not Found.
+    </h2>
+
+  </body>
+        <footer><p>FixNcell Phone Repair Copyright &copy; 2015</p></footer>
+      </body>
+    </html>
